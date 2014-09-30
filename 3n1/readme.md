@@ -6,9 +6,9 @@
 
 3. if n = 1 then STOP
 
-4. 		 if n is odd then n = 3 * n + 1
+4. if n is odd then n = 3 * n + 1
 
-5. 		 else n = n / 2
+5. else n = n / 2
 
 6. GOTO 2
 
@@ -21,13 +21,19 @@ For any two numbers i and j you are to determine the maximum `cycle length` over
 ## Sample Input
 
 1 10
+
 100 200
+
 201 210
+
 900 1000
 
 ## Sample Output
 
 1 10 20
+
 100 200 125
+
 201 210 89
+
 900 1000 174
