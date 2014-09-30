@@ -1,6 +1,6 @@
 ## minesweeper
 
-input
+### input
 
 ```
 4 4
@@ -15,11 +15,10 @@ input
 .*...
 ```
 
-output
-
-Field #1:
+### output
 
 ```
+Field #1:
 *100
 2210
 1*10
