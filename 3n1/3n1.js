@@ -1,15 +1,4 @@
-/**
- * DESCRIPTION of 3n + 1
- *
- * Start with an integer `n`
- *  if n is even -> divide by 2
- *  if n is odd  -> multiply by 3 and add 1
- *
- *  repeat until n = 1
- *
- *  log all generated value
- *
- */
+// run this code througth node
 var $3n1 = function $3n1(v, rst) {
     rst = rst || [];
     rst.push(v);
