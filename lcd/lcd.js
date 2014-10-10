@@ -74,5 +74,9 @@ var lcd = function(size) {
 
 var lcd2 = lcd(2);
 var lcd3 = lcd(3);
-lcd2('one');
-lcd3('one');
+var lcd4 = lcd(4);
+var lcd5 = lcd(5);
+lcd2('four');
+lcd3('four');
+lcd4('four');
+lcd5('four');
